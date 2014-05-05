@@ -1,7 +1,7 @@
 {
   "name": "passport-voice-it",
-  "version": "0.0.0",
-  "main": "lib/passport-voice-it.js",
+  "version": "0.0.1",
+  "main": "lib/",
   "description": "VoiceIt authentication strategy for Passport.",
   "homepage": "https://github.com/iszak/passport-voice-it",
   "bugs": "https://github.com/iszak/passport-voice-it/issues",
