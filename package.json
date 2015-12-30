@@ -21,7 +21,7 @@
   "keywords": [],
   "dependencies": {
     "passport-strategy": "^1.0.0",
-    "data-uri-to-buffer": "^0.0.3",
+    "data-uri-to-buffer": "^0.0.4",
     "voice-it": "^0.0.1"
   },
   "devDependencies": {
